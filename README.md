@@ -50,7 +50,17 @@
 
 ## 🖼️ Dashboard Preview
 
-.
+![page-1](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0001.jpg)
+
+![page-2](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0002.jpg)
+
+![page-3](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0003.jpg)
+
+![page-4](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0004.jpg)
+
+![page-5](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0005.jpg)
+
+![page-6](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0006.jpg)
 
 ---
 
@@ -90,18 +100,39 @@ Key measures implemented include:
 
 ## 📂Project Structure
 T20-World-Cup-2022-Analysis/
+
 ├── Data/
-│   ├── dim_match_summary.csv
-│   ├── dim_players.csv
-│   ├── fact_batting_summary.csv
-│   └── fact_bowling_summary.csv
+
+│   ├── [dim_match_summary.csv](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Data/dim_match_summary.csv)
+
+│   ├── [dim_players.csv](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Data/dim_players.csv)
+
+│   ├── [fact_batting_summary.csv](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Data/fact_bating_summary.csv)
+
+│   └── [fact_bowling_summary.csv](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Data/fact_bowling_summary.csv)
+
 ├── Dashboard/
-│   └── t20_cricket.pbix             
+
+│   └── [t20_cricket.pbix ](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Dashboard/t20_cricket.pbix)
+
 ├── Logic/
-│   └── metrics_logic.csv            
-│   ├── Batting_Performance.png      
-│   ├── Bowling_Insights.png        
-│   └── Team_Comparison.png          
+
+│   └── [metrics_logic.csv](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Logic/DAX%20Measures%20and%20Calculated%20columns.csv)
+
+├── Images/
+
+│   ├── [page-1](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0001.jpg)    
+
+│   ├── [page-2](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0002.jpg) 
+
+│   ├── [page-3](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0003.jpg) 
+
+│   ├── [page-4](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0004.jpg) 
+
+│   ├── [page-5](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0005.jpg) 
+
+│   └── [page-6](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0006.jpg)
+
 └── README.md
 
 ---
