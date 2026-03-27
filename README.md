@@ -60,7 +60,7 @@
 
 ![page-5](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0005.jpg)
 
-![page-6](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/0750ad95e8921ab43227a87d7d8e85cd6e78121d/Images/t20_cricket_page-0006.jpg)
+![page-6](https://github.com/sanchit-2511/T20-World-Cup-2022-Analysis/blob/d33d48f98d88c4cad09919fa633523e42a596993/Images/t20_criclet_page_0006.png)
 
 ---
 
